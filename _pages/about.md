@@ -4,26 +4,15 @@ title: About
 permalink: /about/
 ---
 
-[Reverie](https://github.com/amitmerchant1990/reverie) is a Jekyll theme which is simple and opinionated. It's actually a fork of [jekyll-now](https://github.com/barryclark/jekyll-now) with some additional features and personal touches which I've implemented to suit my needs for [my blog](https://www.amitmerchant.com).
+# Bio
 
-This is a plug-and-play Jekyll theme which you can use on GitHub Pages without even setting up a local environment.
+Jay Maloney is a unique musical talent with expertise and experience on several instruments and across several genres. Jay brings a creative and positive energy to any musical situation that is impossible to miss. A gifted drummer from a young age, Jay has taken that strong sense of rhythm and groove to his songwriting and arrangement. He combines this with a deep connection to bluegrass and other American roots music.
 
-## Features
+# Collaborations
 
-- Command-line free fork-first workflow, using GitHub.com to create, customize and post to your blog
-- Fully responsive and mobile optimized base theme
-- Sass/Coffeescript support using Jekyll 2.0
-- Free hosting on your GitHub Pages user site
-- All the SEO goodies comes in-built
-- Markdown blogging
-- Syntax highlighting using Pygments
-    - [Dracula syntax theme](https://draculatheme.com/) included
-- Disqus commenting
-- Google Analytics integration
-- Fuzzy search across blog posts
-- Pagination of posts works out-of-the-box.
-- Categorize posts out-of-the box
-- RSS Feed
-- In-built sitemap
-
-Learn more about it [here](https://github.com/amitmerchant1990/reverie) on how to get started.
+Please contact me for collaborations related to any of the following:
+* Session work on mandolin, drums, acoustic guitar, vocals
+* Project studio tracking
+* Pro Tools editing and mixing
+* Live performance mandolin, drums, acoustic guitar, vocals
+* Songwriting, co-writing, arrangement, production specializing in Bluegrass, Folk, Americana
