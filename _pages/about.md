@@ -16,3 +16,6 @@ Please contact me for collaborations related to any of the following:
 * Pro Tools editing and mixing
 * Live performance mandolin, drums, acoustic guitar, vocals
 * Songwriting, co-writing, arrangement, production specializing in Bluegrass, Folk, Americana
+
+### Contact
+###### contact@jaymaloneymusic.com
