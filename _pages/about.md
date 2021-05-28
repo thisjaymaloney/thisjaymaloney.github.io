@@ -18,8 +18,6 @@ Please contact me for collaborations related to any of the following:
 * Songwriting, co-writing, arrangement, production specializing in Bluegrass, Folk, Americana
 
 ### Contact
-contact@jaymaloneymusic.com
-
 <p style="text-align:center;">
-<img src="/images/contact.png" alt="Contact">
+<img src="/images/contact1.png" alt="Contact">
 </p>
