@@ -11,3 +11,7 @@ title: Shows
 ---
 ### Friday, August 6, 2021 - Acoustic Duo with Jeff Wasbes
 #### S&S Farm Brewery, Nassau, NY, 6pm - 8pm
+
+<p style="text-align:center;">
+<img src="/images/Jay M. 001_sm.jpg" alt="Jay Maloney & Kevin Maul - 2016">
+</p>
