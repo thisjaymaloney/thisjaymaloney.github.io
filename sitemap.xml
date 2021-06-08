@@ -4,8 +4,8 @@ layout: none
 
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"> 
-{% include sitemapxml.html url="https://jaymaloneymusic.com/music/" %}
-{% include sitemapxml.html url="https://jaymaloneymusic.com/shows/" %}
-{% include sitemapxml.html url="https://jaymaloneymusic.com/photos/" %}
-{% include sitemapxml.html url="https://jaymaloneymusic.com/about/" %}
+{% include sitemapxml.html url="/music/" %}
+{% include sitemapxml.html url="/shows/" %}
+{% include sitemapxml.html url="/photos/" %}
+{% include sitemapxml.html url="/about/" %}
 </urlset>
