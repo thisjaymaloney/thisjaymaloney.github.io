@@ -3,13 +3,16 @@ layout: page
 permalink: /shows/
 title: Shows
 ---
-### Friday, June 11, 2021 - Acoustic Duo with Jeff Wasbes
-#### S&S Farm Brewery, Nassau, NY, 6pm - 9pm
----
-### Friday, July 2, 2021 - Acoustic Duo with Ted Hennessy
-#### S&S Farm Brewery, Nassau, NY, 6pm - 9pm
----
 ### Friday, August 6, 2021 - Acoustic Duo with Jeff Wasbes
+#### S&S Farm Brewery, Nassau, NY, 6pm - 9pm
+---
+### Thursay,August 19, 2021 - Acoustic Duo with Jeff Wasbes
+#### SUNY Plaza - Lunchtime Series, Albany, NY, 11:30am - 1pm
+---
+### Friday, November 12, 2021 - Acoustic Duo with Jeff Wasbes
+#### S&S Farm Brewery, Nassau, NY, 6pm - 9pm
+---
+### Friday, December 4, 2021 - Acoustic Duo with Jeff Wasbes
 #### S&S Farm Brewery, Nassau, NY, 6pm - 9pm
 
 <p style="text-align:center;">
