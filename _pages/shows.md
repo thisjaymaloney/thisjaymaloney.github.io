@@ -6,7 +6,7 @@ title: Shows
 ### Friday, August 6, 2021 - Acoustic Duo with Jeff Wasbes
 #### S&S Farm Brewery, Nassau, NY, 6pm - 9pm
 ---
-### Thursay,August 19, 2021 - Acoustic Duo with Jeff Wasbes
+### Thursay, August 19, 2021 - Acoustic Duo with Jeff Wasbes
 #### SUNY Plaza - Lunchtime Series, Albany, NY, 11:30am - 1pm
 ---
 ### Friday, November 12, 2021 - Acoustic Duo with Jeff Wasbes
