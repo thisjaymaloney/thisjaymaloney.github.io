@@ -3,13 +3,16 @@ layout: page
 permalink: /shows/
 title: Shows
 ---
-### Sunday, October 10, 2021 - Acoustic Duo with Jeff Wasbes
-#### <a href="https://www.facebook.com/events/177853351127515">Cider Sunday 2021</a> - Samascott Orchards, Kinderhook, NY, 12:30am - 4:30pm
----
 ### Friday, November 12, 2021 - Acoustic Duo with Jeff Wasbes
 #### S&S Farm Brewery, Nassau, NY, 6pm - 9pm
 ---
-### Friday, December 4, 2021 - Acoustic Duo with Jeff Wasbes
+### Saturday, December 4, 2021 - Acoustic Duo with Jeff Wasbes
+#### S&S Farm Brewery, Nassau, NY, 6pm - 9pm
+---
+### Saturday, January 22, 2022 - Acoustic Duo with Jeff Wasbes
+#### S&S Farm Brewery, Nassau, NY, 6pm - 9pm
+---
+### Saturday, March 5, 2022 - Acoustic Duo with Jeff Wasbes
 #### S&S Farm Brewery, Nassau, NY, 6pm - 9pm
 
 <p style="text-align:center;">
