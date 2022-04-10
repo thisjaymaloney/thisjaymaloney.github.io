@@ -4,6 +4,8 @@ permalink: /photos/
 title: Photos
 ---
 <p style="text-align:center;">
+<img src="/images/IMG_2859.jpg" alt="Jay Maloney at Bearsville Theater - 2022">
+<br>
 <img src="/images/DoovDoov_Throwdown2_sm2.JPG" alt="Jay Maloney with Dan Johnson Trio - 2018">
 <br>
 <img src="/images/10998006_10200892188462962_5192708030843016718_n.jpg" alt="Jay Maloney with Tony Markelli, Mike McMann, and Luke McNamee - 2016">
