@@ -15,6 +15,9 @@ title: Shows
 ### Saturday, June 25, 2022 - Old & In The Rye (tribute to Old & In The Way)
 #### Ryebread Festival, Troy, NY, 2pm - 3:30pm
 ---
+### Friday, July 8, 2022 - Bale Kicker Bluegrass Band
+#### FCC Bluegrass Coffeehouse, Ridgefield, CT, 7pm - 9pm
+---
 ### Saturday, July 9, 2022 - on drums with Michael Francis McCarthy
 #### S&S Farm Brewery, Nassau, NY, 6pm - 9pm
 ---
@@ -29,9 +32,6 @@ title: Shows
 ---
 ### Saturday, August 6, 2022 - Acoustic Duo with Jeff Wasbes (Bale Kicker)
 #### Stable Gate Winery, Castleton, NY, 12pm - 2pm
----
-### Saturday, August 13, 2022 - Bluegrass Jam
-#### Troy Waterfront Farmer's Market, Troy, NY, 9am - 2pm
 ---
 ### Friday, August 26, 2022 - with Americana band, Hammer & Nail
 #### S&S Farm Brewery, Nassau, NY, 6pm - 9pm
