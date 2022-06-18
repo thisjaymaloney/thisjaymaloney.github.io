@@ -13,7 +13,7 @@ title: Shows
 #### Bennington Museum, Bennington, VT, 5pm - 8pm
 ---
 ### Saturday, June 25, 2022 - Old & In The Rye (tribute to Old & In The Way)
-#### Ryebread Festival, Troy, NY, 2pm - 3:30pm
+#### Ryebread Festival, Troy, NY, 12pm - 1:30pm
 ---
 ### Friday, July 8, 2022 - Bale Kicker Bluegrass Band
 #### FCC Bluegrass Coffeehouse, Ridgefield, CT, 7pm - 9pm
