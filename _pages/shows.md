@@ -12,6 +12,9 @@ title: Shows
 ### Saturday, October 22, 2022 - Acoustic Duo with Jeff Wasbes (Bale Kicker)
 #### S&S Farm Brewery, Nassau, NY, 6pm - 9pm
 ---
+### Saturday, November 26, 2022 - Acoustic Duo with Jeff Wasbes (Bale Kicker)
+#### Wolf Hollow Brewing Company, Schenectady, NY, 6pm - 9pm
+---
 ### Saturday, December 3, 2022 - Acoustic Duo with Jeff Wasbes (Bale Kicker)
 #### S&S Farm Brewery, Nassau, NY, 6pm - 9pm
 ---
