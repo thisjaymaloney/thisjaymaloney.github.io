@@ -6,7 +6,7 @@ title: Shows
 ### Saturday, February 11, 2023 - with Americana band, Hammer & Nail
 #### Bye-I Brewery, Cohoes, NY, Albany, NY, 7pm - 9pm
 ---
-### Friday, March 18, 2023 - with Americana band, Hammer & Nail
+### Friday, March 17, 2023 - with Americana band, Hammer & Nail
 #### Bye-I Brewery, Cohoes, NY, Albany, NY, 7pm - 9pm
 ---
 ### Saturday, April 5, 2023 - Acoustic Duo with Jeff Wasbes (Bale Kicker)
