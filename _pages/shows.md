@@ -3,19 +3,19 @@ layout: page
 permalink: /shows/
 title: Shows
 ---
-### Friday, October 14, 2022 - with Americana band, Hammer & Nail
-#### Albany Distilling Co., Albany, NY, 7pm - 9pm
----
-### Friday, October 21, 2022 - with Americana band, Hammer & Nail
+### Saturday, February 11, 2023 - with Americana band, Hammer & Nail
 #### Bye-I Brewery, Cohoes, NY, Albany, NY, 7pm - 9pm
 ---
-### Saturday, October 22, 2022 - Acoustic Duo with Jeff Wasbes (Bale Kicker)
+### Friday, March 18, 2023 - with Americana band, Hammer & Nail
+#### Bye-I Brewery, Cohoes, NY, Albany, NY, 7pm - 9pm
+---
+### Saturday, April 5, 2023 - Acoustic Duo with Jeff Wasbes (Bale Kicker)
 #### S&S Farm Brewery, Nassau, NY, 6pm - 9pm
 ---
-### Saturday, November 26, 2022 - Acoustic Duo with Jeff Wasbes (Bale Kicker)
-#### Wolf Hollow Brewing Company, Schenectady, NY, 6pm - 9pm
+### Tuesday, April 25, 2023 - with Americana band, Hammer & Nail
+#### Unihog, Hoosick Falls, NY, Albany, NY, 7pm - 9pm
 ---
-### Saturday, December 3, 2022 - Acoustic Duo with Jeff Wasbes (Bale Kicker)
+### Saturday, June 24, 2023 - with Americana band, Hammer & Nail
 #### S&S Farm Brewery, Nassau, NY, 6pm - 9pm
 ---
 <p style="text-align:center;">
