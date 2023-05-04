@@ -9,6 +9,9 @@ title: Shows
 ### Saturday, May 13, 2023 - with Americana band, Hammer & Nail
 #### Stable Gate Winery, Castleton-On-Hudson, Albany, NY, 12pm - 2pm
 ---
+### Sunday, May 21, 2023 - Acoustic Duo with Jeff Wasbes (Bale Kicker)
+#### Sabba Vineyards, Old Chatham, NY, 3pm - 7pm
+---
 ### Thursday, May 25, 2023 - with Americana band, Hammer & Nail
 #### House Concert, Albany, NY, 7pm - 8pm
 ---
