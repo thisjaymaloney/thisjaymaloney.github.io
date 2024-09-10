@@ -6,7 +6,7 @@ title: Shows
 ### Thursday, September 26, 2024 - Solo
 #### The Stewart House, Athens, NY, 6:30pm - 8:30pm
 ---
-#### Tuesday, October 1, 2024 - Bluegrass with Flatt Earth
+### Tuesday, October 1, 2024 - Bluegrass with Flatt Earth
 #### The Ale House, Troy, NY, 7pm - 9pm
 ---
 ### Saturday, October 5, 2024 - Bluegrass with Flatt Earth
