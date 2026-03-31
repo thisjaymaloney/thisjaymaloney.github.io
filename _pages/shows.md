@@ -8,7 +8,7 @@ title: Shows
 ---
 ### Friday, April, 2026 - Solo
 #### S&S Farm Brewery, Nassau, NY, 6pm - 9pm
-
+---
 <p style="text-align:center;">
 <img src="/images/Jay M. 001_sm.jpg" alt="Jay Maloney & Kevin Maul - 2016">
 </p>
